@@ -32,7 +32,7 @@ print()
 # ---------------------------------------------------------------
 print("Q3. Basic Data Types")
 
-age = 25                # int   -> whole number
+age = 21                # int   -> whole number
 height = 5.6            # float -> number with a decimal point
 is_student = True       # bool  -> only True or False
 name = "Sahithi"        # str   -> text
